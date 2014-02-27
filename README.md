@@ -1,6 +1,4 @@
 HelloIntellij
 =============
 
-abc 1234
-
-xyz
+abc 123
